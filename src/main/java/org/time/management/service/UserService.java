@@ -1,6 +1,6 @@
 package org.time.management.service;
 
-import org.time.management.entity.User;
+import org.time.management.model.User;
 import org.time.management.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

@@ -1,6 +1,6 @@
 package org.time.management.controller;
 
-import org.time.management.entity.User;
+import org.time.management.model.User;
 import org.time.management.request.AuthenticationRequest;
 import org.time.management.request.SignupRequest;
 import org.time.management.service.AuthenticationService;
